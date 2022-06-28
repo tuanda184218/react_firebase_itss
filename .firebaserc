@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "doananhtuan-611aa",
+    "staging": "doananhtuan-611aa"
+  },
+  "targets": {}
+}
